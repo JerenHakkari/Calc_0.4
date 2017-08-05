@@ -1,6 +1,5 @@
 #Fourth iteration of the Calculator program, now with n-variable support for
 #all functions.
-#Unrelated to the program: https://www.reddit.com/r/learnprogramming/comments/6rtqjz/looking_for_fellow_beginners_learning_programming/
 
 var=float(0)
 ans=float(0)
